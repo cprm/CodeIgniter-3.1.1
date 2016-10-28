@@ -1,0 +1,14 @@
+{
+    "autoload":{
+        "psr-4":{"":"class/"}
+    },
+    "require":{
+        "ci-pug/ci-pug":"1.1.3"
+    },
+    "repositories":{
+       "packagist":{
+           "type":"composer",
+           "url":"https://packagist.phpcomposer.com"
+       }
+    }
+}
